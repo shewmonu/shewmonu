@@ -50,11 +50,12 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shewmonu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shewmonu" /></p>  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shewmonu&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shewmonu&show_icons=true&locale=en&theme=tokyonight" alt="shewmonu" /></p>  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shewmonu&theme=tokyo-night)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shewmonu&theme=tokyonight" alt="shewmonu" /></p>  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shewmonu&layout=compact&theme=tokyonight)
+
 
 ---
 
