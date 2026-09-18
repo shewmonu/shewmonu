@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 - 🎓 B.Tech in Computer Science & Engineering (CGPA: 8.16) | Academy of Technology  
-- 📚 Currently pursuing **Minor in Artificial Intelligence** at IIT Ropar  
+- 📚 Completed **Major in Artificial Intelligence** at IIT Ropar  
 - 🔭 Working on **AI/ML Projects & Chatbot Development**  
 - 🌱 Learning **TensorFlow & Advanced Machine Learning**  
 - 🤝 Open to collaborate on **OpenCV & Web Development Projects**  
